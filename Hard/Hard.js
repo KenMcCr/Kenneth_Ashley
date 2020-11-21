@@ -6,3 +6,7 @@
 // Example 2:
 // Input: str = “{hello world]” brackets(srt)
 // Output: False
+
+let matchingBracket = function () {
+
+}

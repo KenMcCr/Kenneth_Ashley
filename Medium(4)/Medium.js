@@ -14,3 +14,23 @@
 // Example 3:
 // car.runErrands();
 // Output: old mileage: 26033 | new mileagea: 26063
+
+
+let car = {
+
+    make: 'Bmw',
+    model: 'M5',
+    year: '2021',
+    mileage: 15000,
+    color: 'Blue',
+    driveToWork: function () {
+
+    },
+    driveAroundTheWorld: function () {
+
+    },
+    runErrands: function () {
+
+    },
+
+}
