@@ -8,4 +8,9 @@
 let primeArray = function prime(numbers) {
     let primeNumbers = [];
 
+    for (let i = 0; i < numbers.length; i++) {
+        if (numbers)
+
+    }
+
 }
